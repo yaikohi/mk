@@ -8,6 +8,9 @@
 node_modules
 *.local
 
+# preview build
+tmp
+
 # Cache
 .cache
 .mf

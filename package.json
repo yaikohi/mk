@@ -43,6 +43,7 @@
     "vite-tsconfig-paths": "4.2.0"
   },
   "dependencies": {
+    "@libsql/client": "^0.1.6",
     "@qwikest/icons": "^0.0.8",
     "class-variance-authority": "^0.6.0",
     "clsx": "^1.2.1",
