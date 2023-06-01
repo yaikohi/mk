@@ -42,9 +42,9 @@
     "vite-tsconfig-paths": "4.2.0"
   },
   "dependencies": {
+    "@qwikest/icons": "^0.0.8",
     "class-variance-authority": "^0.6.0",
     "clsx": "^1.2.1",
-    "lucide-react": "^0.233.0",
     "rehype-sanitize": "^5.0.1",
     "rehype-stringify": "^9.0.3",
     "remark": "^14.0.3",
