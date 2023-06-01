@@ -21,8 +21,8 @@ export default component$(() => {
   
   > quoted content
   
-  [link](https://ykhi.xyz/)
-  
+  [my websiteXDDD](https://ykhi.xyz/)
+    
   You can use inline \`code\` as well as code blocks:
   
   \`\`\`js 

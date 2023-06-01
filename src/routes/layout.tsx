@@ -1,15 +1,11 @@
 import { component$, Slot } from "@builder.io/qwik";
-import { Navbar } from "~/components/nav-bar";
-import { useAuthSession } from '~/routes/plugin@auth';
+import Navbar from "~/components/nav-bar";
 
 export default component$(() => {
-  const session = useAuthSession()
-  console.log(session)
-
   return (
     <>
-    <Navbar/>
-      <main class="w-full">
+      <Navbar />
+      <main class="w-full p-8">
         <Slot />
       </main>
     </>
